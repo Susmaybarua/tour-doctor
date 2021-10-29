@@ -1,0 +1,14 @@
+.service{
+    border: 1px solid red;
+    margin: 20px;   
+}
+img{
+    height: 300px;
+    width: 405px;   
+}
+.text{
+    text-align: justify;
+}
+h5{
+    color: rgb(146, 6, 134);
+}
